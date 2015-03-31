@@ -1,0 +1,7 @@
+*~
+*.LZMA
+*.GZIP
+.classpath
+.settings
+.project
+target/

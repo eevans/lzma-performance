@@ -1,0 +1,4 @@
+#!/bin/bash
+
+java -cp target/lzma-0.0.1-SNAPSHOT-jar-with-dependencies.jar \
+     org.wikimedia.test.TestDecompressor "$@"
